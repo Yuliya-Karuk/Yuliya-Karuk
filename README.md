@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./img/bg.png" alt="welcome image" >
+
 ### Hi there 👋, I'm Yuliya
 
 ## I am learning front end development.
@@ -28,12 +30,23 @@ Here are some ideas to get you started:
 - __Telegram:__ [Yuliya Hari](https://t.me/Yuliya_Hari)
 
 ### Languages and Tools:
-<!--
-<img align="left" alt="HTML5" width="26px" src="./icon/html.png">
-<img align="left" alt="CSS3" width="26px" src="./icon/css.png">
-<img align="left" alt="SASS" width="26px" src="./icon/sass.png">
-<img align="left" alt="JS" width="26px" src="./icon/js.png">
-<img align="left" alt="TypeScript" width="26px" src="./icon/typescript.png">
-<img align="left" alt="React" width="26px" src="./icon/react.png">
-<img align="left" alt="WebPack" width="26px" src="./icon/webpack.png"> 
--->
+<img alt="HTML5 icon" width="26px" src="./img/icon/html.svg">
+<img alt="CSS3 icon" width="26px" src="./img/icon/css.svg">
+<img alt="SASS icon" width="26px" src="./img/icon/sass.png">
+<img alt="JS icon" width="26px" src="./img/icon/js.svg">
+<img alt="BEM icon" width="26px" src="./img/icon/bem.svg">
+<img alt="React icon" width="26px" src="./icon/figma.svg">
+
+### My Projects
+ Project title            |   Deploy link
+--------------------------|:-----------------------:
+Library                   |   [Library](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/library/)
+Custom Audio Player       |   [Audio-player](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/audio-player/)
+Custom Video Player       |   [Video-player](https://yuliya-karuk.github.io/js30-1.3-custom-video/)
+Image gallery             |   [Image-gallery](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/image-galery/)
+Movie app (work with VPN) |   [Movie-app](https://yuliya-karuk.github.io/js30-2.3-movie-app/)
+Shelter                   |   [Shelter](https://yuliya-karuk.github.io/shelter/shelter/pages/main/index.html)
+CssMemSlider              |   [CssMemSlider](https://yuliya-karuk.github.io/cssMemeSlider/cssMemeSlider/index.html)
+Travel                    |   [Travel](https://yuliya-karuk.github.io/rsschool-travel/)
+
+
