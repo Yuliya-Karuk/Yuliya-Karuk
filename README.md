@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Yuliya
 
-## I am learning front end development.
+## About myself.
 - 💻 I’m interested in Web Development especially Front-end
 - 💞️ I am result-oriented and opened to new knowledge
 - 🎉 I'm ready to do my best to become a Frontend Developer
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 <img alt="JS icon" width="26px" src="./img/icons/js.svg" align="left">
 <img alt="BEM icon" width="26px" src="./img/icons/bem.svg" align="left">
 <img alt="Figma icon" width="26px" src="./img/icons/figma.svg" align="left">
+*********
 
-
-<h3 align="left">My Projects</h3>
+### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
 Library                   |   [Library](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/library/)
