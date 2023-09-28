@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img alt="BEM icon" width="26px" src="./img/icons/bem.svg" align="left">
 <img alt="Figma icon" width="26px" src=".img/icons/figma.svg" align="left">
 
+
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
