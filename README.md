@@ -30,14 +30,7 @@ Here are some ideas to get you started:
 - __Telegram:__ [Yuliya Hari](https://t.me/Yuliya_Hari)
 
 ### Languages and Tools:
-<img alt="HTML5 icon" width="26px" src="./img/icons/html.svg" align="left">
-<img alt="CSS3 icon" width="26px" src="./img/icons/css.svg" align="left">
-<img alt="SASS icon" width="26px" src="./img/icons/sass.png" align="left">
-<img alt="JS icon" width="26px" src="./img/icons/js.svg" align="left">
-<img alt="BEM icon" width="26px" src="./img/icons/bem.svg" align="left">
-<img alt="Figma icon" width="26px" src="./img/icons/figma.svg" align="left">
-
-
+<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg">
 
 ### My Projects
  Project title            |   Deploy link
@@ -50,5 +43,3 @@ Movie app (work with VPN) |   [Movie-app](https://yuliya-karuk.github.io/js30-2.
 Shelter                   |   [Shelter](https://yuliya-karuk.github.io/shelter/shelter/pages/main/index.html)
 CssMemSlider              |   [CssMemSlider](https://yuliya-karuk.github.io/cssMemeSlider/cssMemeSlider/index.html)
 Travel                    |   [Travel](https://yuliya-karuk.github.io/rsschool-travel/)
-
-
