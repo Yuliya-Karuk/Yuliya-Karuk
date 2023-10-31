@@ -35,10 +35,11 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
-Library                   |   [Library](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/library/)
-Custom Audio Player       |   [Audio-player](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/audio-player/)
+Library                   |   [Library](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/library/)
+Space shooter             |   [Space-shooter](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/random-game/)
+Custom Audio Player       |   [Audio-player](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/audio-player/)
 Custom Video Player       |   [Video-player](https://yuliya-karuk.github.io/js30-1.3-custom-video/)
-Image gallery             |   [Image-gallery](https://rolling-scopes-school.github.io/yuliya-karuk-JSFEPRESCHOOL2023Q2/image-galery/)
+Image gallery             |   [Image-gallery](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/image-galery/)
 Movie app (work with VPN) |   [Movie-app](https://yuliya-karuk.github.io/js30-2.3-movie-app/)
 Shelter                   |   [Shelter](https://yuliya-karuk.github.io/shelter/shelter/pages/main/index.html)
 CssMemSlider              |   [CssMemSlider](https://yuliya-karuk.github.io/cssMemeSlider/cssMemeSlider/index.html)
