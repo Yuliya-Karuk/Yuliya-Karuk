@@ -33,14 +33,10 @@ Here are some ideas to get you started:
 <img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg">
 
 ### My Projects
- Project title            |   Deploy link
---------------------------|:-----------------------:
-Library                   |   [Library](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/library/)
-Space shooter             |   [Space-shooter](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/random-game/)
-Custom Audio Player       |   [Audio-player](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/audio-player/)
-Custom Video Player       |   [Video-player](https://yuliya-karuk.github.io/js30-1.3-custom-video/)
-Image gallery             |   [Image-gallery](https://yuliya-karuk.github.io/RS-School-2023Q2-Stage0/image-galery/)
-Movie app (work with VPN) |   [Movie-app](https://yuliya-karuk.github.io/js30-2.3-movie-app/)
-Shelter                   |   [Shelter](https://yuliya-karuk.github.io/shelter/shelter/pages/main/index.html)
-CssMemSlider              |   [CssMemSlider](https://yuliya-karuk.github.io/cssMemeSlider/cssMemeSlider/index.html)
-Travel                    |   [Travel](https://yuliya-karuk.github.io/rsschool-travel/)
+
+
+ Projects                                                           |   Links
+--------------------------------------------------------------------|:-----------------------:
+ Tasks, completed during the RS School JS/FE course Stage 1         |   [Link](https://github.com/Yuliya-Karuk/RS-School-2023Q4-Stage1) 
+ Tasks, completed during the RS School JS/FE course Stage 0         |   [Link](https://github.com/Yuliya-Karuk/RS-School-2023Q2-Stage0)
+
