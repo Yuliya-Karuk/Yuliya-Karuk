@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - __Telegram:__ [Yuliya Hari](https://t.me/Yuliya_Hari)
 
 ### Languages and Tools:
-<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg">
+[<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)   [<img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)   [<img alt="SASS icon" width="30px" src="./img/icons/sass.png">](https://sass-lang.com/)   [<img alt="JS icon" width="30px" src="./img/icons/js.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img alt="BEM icon" width="30px" src="./img/icons/bem.svg">](https://en.bem.info/methodology/)   [<img alt="Figma icon" width="30px" src="./img/icons/figma.svg">](https://www.figma.com/)
 
 ### My Projects
 
