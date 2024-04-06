@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 ------------------|:--------------------------------------------------------|:-----------------------
  English Puzzle   | [Deploy](https://yuliya-karuk.github.io/rss-puzzle/)    | [Repo](https://github.com/Yuliya-Karuk/rss-puzzle)
  Async Race (server installation required)      | [Deploy](https://yuliya-karuk.github.io/async-race/)    | [Repo](https://github.com/Yuliya-Karuk/async-race)
+ Virtual Keyboard | [Deploy](https://yuliya-karuk.github.io/virtual-keyboard/)    | [Repo](https://github.com/Yuliya-Karuk/virtual-keyboard)
  
   - [Tasks](https://github.com/Yuliya-Karuk/RS-School-2023Q4-Stage1) , completed during the RS School JS/FE course Stage 1
   - [Tasks](https://github.com/Yuliya-Karuk/RS-School-2023Q2-Stage0), completed during the RS School JS/FE course Stage 0        
