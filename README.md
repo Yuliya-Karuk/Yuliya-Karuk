@@ -58,6 +58,11 @@ Here are some ideas to get you started:
 <img src="https://icon-icons.com/icons2/3915/PNG/512/stylelint_logo_icon_249490.png"  title="Stylelint" alt="Stylelint" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -67,6 +72,8 @@ Here are some ideas to get you started:
 
  Projects         |   Deploy                                                | Code repo
 ------------------|:--------------------------------------------------------|:-----------------------
+ ⭐️ Ecommerce App Sprout ⭐️| [Deploy](https://real-js-devs-sprout.netlify.app/)    | [Repo](https://github.com/Yuliya-Karuk/eCommerce-Application)
+ Fun Chat (server installation required)        | [Deploy](https://yuliya-karuk-fun-chat.netlify.app/)    | [Repo](https://github.com/Yuliya-Karuk/fun-chat)
  English Puzzle   | [Deploy](https://yuliya-karuk.github.io/rss-puzzle/)    | [Repo](https://github.com/Yuliya-Karuk/rss-puzzle)
  Async Race (server installation required)      | [Deploy](https://yuliya-karuk.github.io/async-race/)    | [Repo](https://github.com/Yuliya-Karuk/async-race)
  Virtual Keyboard | [Deploy](https://yuliya-karuk.github.io/virtual-keyboard/)    | [Repo](https://github.com/Yuliya-Karuk/virtual-keyboard)
